@@ -1,4 +1,6 @@
-### Hi there, im Théo Duprez, nice to meet you ! 👋
+### Hi there, nice to meet you ! 👋
+I'm Théo Duprez, and i like to program in C !
+I'm at the 42 School (best shcool of the world 👀).
 
 <!--
 **TheoDuprez/TheoDuprez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
