@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, im Théo Duprez, nice to meet you ! 👋
 
 <!--
 **TheoDuprez/TheoDuprez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
