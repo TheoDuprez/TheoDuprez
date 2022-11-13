@@ -1,5 +1,5 @@
 ### Hi there, nice to meet you ! 👋
-I'm <strong>Théo Duprez</strong>, and i like to program in <strong>C</strong> !  
+I'm <p style"color : red">Théo Duprez</p>, and i like to program in <strong>C</strong> !  
   
 I'm at the <strong>42</strong> School (best shcool of the world 👀).
 
