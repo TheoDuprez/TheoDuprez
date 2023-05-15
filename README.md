@@ -1,7 +1,7 @@
 ### Hi there, nice to meet you ! 👋
 I'm ***Théo Duprez***, and i like to program in **C** !  
   
-I'm at the **42** School (best school of the world 👀).
+I'm at the **42** School.
 
 <!--
 **TheoDuprez/TheoDuprez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
